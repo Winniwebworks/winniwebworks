@@ -22,7 +22,7 @@ en: &DEFAULT_EN
     section: services
     list:
       - title: "Website Design"
-        desc: "From concept to creation, websites made just for you."
+        desc: "From concept to creation, websites made just for you"
         icon: fas  fa-file-code #find more at https://fontawesome.com/icons
       - title: "Website Repair"
         desc: "Broken websites brought back to life"
