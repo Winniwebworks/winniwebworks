@@ -11,8 +11,8 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to our Studio!
-    text: From Custom Designs to Seamless Results
+    title: Welcome To The Studio!
+    text: Your Vision, Our Creation
     button: Tell Me More
     buttonlink: "#services"
 
