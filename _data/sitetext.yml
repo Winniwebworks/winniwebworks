@@ -69,9 +69,9 @@ en: &DEFAULT_EN
     end: "Be Part <br> of Our <br> Story!"
 
   about:
-    title: "About Us"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    title: "About Me"
+    text: ""
+    body: "With over 10 years of technical experience and a Master’s in Business Data Analytics, I’ve always loved exploring new things in the tech world and pushing myself to keep learning. Starting this small business came from something simple—I noticed how many local companies didn’t have websites where I could easily find the information I needed. That sparked my passion to help businesses in my community build a strong online presence. I’m excited to bring my skills to local businesses, create custom websites that truly represent them, and grow together as part of a stronger, more connected community."
     section: about
 
   clients:
