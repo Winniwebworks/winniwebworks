@@ -91,6 +91,9 @@ en: &DEFAULT_EN
       - title: "Github"
         url: https://github.com/
         logo: assets/img/clients/github.png
+      - title: "Wix"
+        url: https://www.wix.com/
+        logo: assets/img/clients/wix.png
 
   team:
     title: "OUR AMAZING TEAM"
@@ -131,7 +134,7 @@ en: &DEFAULT_EN
 
   contact:
     title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    text: "We look forward to hearing from you!"
     section: contact
     name: "Name*"
     name-validation: "Please enter your name."
@@ -153,7 +156,7 @@ en: &DEFAULT_EN
         icon: "fab fa-facebook-f"
       - url: https://linkedin.com
         icon: "fab fa-linkedin-in"
-      - url: https://github.com/raviriley/agency-jekyll-theme
+      - url: https://github.com
         icon: "fab fa-github"
       - url: https://instagram.com
         icon: "fab fa-instagram"
