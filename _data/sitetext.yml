@@ -80,17 +80,17 @@ en: &DEFAULT_EN
     horizontal-scrolling: "" #"yes/no"
     list:
       - title: "Shopify"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
+        url: https://www.shopify.com/
+        logo: assets/img/clients/shopify.png
       - title: "GoDaddy"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
+        url: https://www.godaddy.com/
+        logo: assets/img/clients/GoDaddy.png
       - title: "WordPress"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
+        url: https://wordpress.com/
+        logo: assets/img/clients/WordPress.png
       - title: "Github"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
+        url: https://github.com/
+        logo: assets/img/clients/github.png
 
   team:
     title: "OUR AMAZING TEAM"
