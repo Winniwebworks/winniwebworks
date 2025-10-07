@@ -91,9 +91,7 @@ en: &DEFAULT_EN
       - title: "Github"
         url: https://github.com/
         logo: assets/img/clients/github.png
-      - title: "Wix"
-        url: https://www.wix.com/
-        logo: assets/img/clients/wix.png
+
 
   team:
     title: "OUR AMAZING TEAM"
