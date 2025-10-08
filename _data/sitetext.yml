@@ -47,7 +47,7 @@ en: &DEFAULT_EN
       - title: "Discover & Plan"
         year: "Step 1"
         desc: "Understanding your goals, audience, and vision to create a clear plan for success."
-        image: assets/img/timeline/goals.png
+        image: assets/img/timeline/goals.jpg
         alt:
       - title: "Design & Wireframe"
         year: "Step 2"
