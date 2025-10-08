@@ -47,22 +47,22 @@ en: &DEFAULT_EN
       - title: "Discover & Plan"
         year: "Step 1"
         desc: "Understanding your goals, audience, and vision to create a clear plan for success."
-        image: assets/img/timeline/1.jpg
+        image: assets/img/timeline/goals.png
         alt:
       - title: "Design & Wireframe"
         year: "Step 2"
         desc: "Transforming ideas into visual layouts that map out content and user flow."
-        image: assets/img/timeline/2.jpg
+        image: assets/img/timeline/plan.jpg
         alt:
       - title: "Review & Refine"
         year: "Step 3"
         desc: "Collaborating on design feedback to fine-tune every detail before launch."
-        image: assets/img/timeline/3.jpg
+        image: assets/img/timeline/review.jpg
         alt: image alt text
       - title: "Launch & Maintain"
         year: "Step 4"
         desc: "Publishing a fully optimized website with ongoing updates and support."
-        image: assets/img/timeline/4.jpg
+        image: assets/img/timeline/launch.jpg
         alt:
         # you can enforce the alignment
         align: right
