@@ -74,23 +74,23 @@ en: &DEFAULT_EN
     body: "Located in Lakes Region, New Hampshire, Winni WebWorks is a small business dedicated to helping other local businesses grow their online presence. We understand that many companies either don’t have a website yet or have one that no longer meets their needs—and that’s where we come in. Our goal is to make professional websites accessible to everyone, no matter the budget or size of the vision. Whether you’re looking for a simple landing page, a full e-commerce store, or something completely custom, we’ll work with you to bring it to life. We believe every business deserves a website that reflects who they are and helps them reach more people in their community and beyond."
     section: about
 
-  clients:
-    section: Platforms
-    max-height: 100px
-    horizontal-scrolling: "" #"yes/no"
-    list:
-      - title: "Shopify"
-        url: https://www.shopify.com/
-        logo: assets/img/clients/shopify.png
-      - title: "GoDaddy"
-        url: https://www.godaddy.com/
-        logo: assets/img/clients/GoDaddy.png
-      - title: "WordPress"
-        url: https://wordpress.com/
-        logo: assets/img/clients/WordPress.png
-      - title: "Github"
-        url: https://github.com/
-        logo: assets/img/clients/github.png
+#  clients:
+ #   section: Platforms
+ #   max-height: 100px
+ #   horizontal-scrolling: "" #"yes/no"
+  #  list:
+  #    - title: "Shopify"
+  #      url: https://www.shopify.com/
+  #      logo: assets/img/clients/shopify.png
+  #    - title: "GoDaddy"
+  #      url: https://www.godaddy.com/
+  #      logo: assets/img/clients/GoDaddy.png
+  #    - title: "WordPress"
+  #      url: https://wordpress.com/
+  #      logo: assets/img/clients/WordPress.png
+  #    - title: "Github"
+  #      url: https://github.com/
+  #      logo: assets/img/clients/github.png
 
 
   team:
