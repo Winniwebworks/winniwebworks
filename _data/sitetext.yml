@@ -34,8 +34,8 @@ en: &DEFAULT_EN
   portfolio:
     title: "Portfolio"
     text: "I am currently working on some exciting projects and look forward to sharing here!"
-    section: portfolio
-    closebutton: "Close Project"
+  #  section: portfolio
+  #  closebutton: "Close Project"
 
   timeline:
     title: "Our Process"
