@@ -1,19 +1,15 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/02-full.jpg
-alt: Keep Exploring
+title: Your Website!
+title_url: 
+subtitle: 
 
 caption:
-  title: Explore
-  subtitle: Graphic Design
-  thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/02-thumbnail.jpg
+  title: Let's Work Together
+  title_url: 
+  subtitle: Building Website for Small Businesses
+  thumbnail: /assets/img/portfolio/FillerPhoto.jpg
 ---
 
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+If you’re a small business owner looking for a website that works for you—not the other way around—I’d love to help. Let’s build something that supports your business, connects with your customers, and grows with you.
 
-{:.list-inline}
 
-- Date: January 2017
-- Client: Explore
-- Category: Graphic Design
