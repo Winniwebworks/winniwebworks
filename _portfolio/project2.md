@@ -6,7 +6,7 @@ subtitle:
 caption:
   title: Let's Work Together
   title_url: 
-  subtitle: Building Website for Small Businesses
+  subtitle: Building Websites for Small Businesses
   thumbnail: /assets/img/portfolio/FillerPhoto.jpg
 ---
 
