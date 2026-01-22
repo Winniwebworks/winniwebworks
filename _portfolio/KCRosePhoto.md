@@ -1,9 +1,9 @@
 ---
-title: KC Rose Photography
+title: "[KC Rose Photography](https://kcrosephoto.com)"
 subtitle: Website created for New York Photographer
 
 caption:
-  title: KC Rose Photography
+  title: "[KC Rose Photography](https://kcrosephoto.com)" 
   subtitle: Website created for New York Photographer
   thumbnail: /assets/img/portfolio/KC_Logo.png
 ---
