@@ -11,7 +11,7 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome To The Studio!
+    title: Web Design for New Hampshire Businesses!
     text: Your Vision, Our Creation
     button: Tell Me More
     buttonlink: "#services"
