@@ -28,7 +28,7 @@ author     : Sara Huntley
 locale: "en-US" # See available languages in _data/sitetext.yml
 
 analytics:
-  google: #Google Analytics tracking code here
+  google: G-Y86VKH0ZQD
 
 collections:
   portfolio:
