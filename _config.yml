@@ -18,6 +18,7 @@ url    : "www.winniwebworks.com" # the base hostname & protocol for your site, e
 baseurl: "" # the subpath of your site, e.g. /blog
 
 title      : Winni Webworks
+tagline    : Website Design in New Hampshire
 email      : sara@huntleysolutions.com #this is also the email contact forms will go to
 description: "Winni WebWorks Web Designs Made For You "
 author     : Sara Huntley
