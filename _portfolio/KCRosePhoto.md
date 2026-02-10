@@ -10,10 +10,10 @@ caption:
   thumbnail: /assets/img/portfolio/KC_Logo.png
 ---
 
-I am currently working on a website for an Adirondack photographer with the goal of sharing their story, promoting upcoming events, and offering an online shop to sell photo prints. The site is being designed to be visually driven, easy to navigate, and simple for customers to explore and purchase from.
+This website was created for an Adirondack photographer to share their story, promote upcoming events, and offer an online shop for purchasing photo prints. The site was designed to be visually driven, easy to navigate, and simple for visitors to explore and shop with confidence.
 
 {:.list-inline}
 
-- Date: January 2026
+- Date: February 2026
 - Client: KC Rose Photography
 - Category: E-commerce
