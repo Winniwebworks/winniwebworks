@@ -28,7 +28,9 @@ author     : Sara Huntley
 locale: "en-US" # See available languages in _data/sitetext.yml
 
 analytics:
-  google: G-Y86VKH0ZQD
+  google:
+    measurement_id: "G-Y86VKH0ZQD"
+
 
 collections:
   portfolio:
