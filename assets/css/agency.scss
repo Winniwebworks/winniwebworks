@@ -48,3 +48,9 @@ $contact-image: "{{ site.data.style.contact-image }}";
   overflow-wrap: break-word;
   word-break: break-word;
 }
+
+@media (max-width: 576px) {
+  .portfolio-modal h2 {
+    font-size: 1.4rem;
+  }
+}
