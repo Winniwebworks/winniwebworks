@@ -209,7 +209,7 @@
   .navlinks .cta::after { display: none; }
   .navlinks .cta:hover { background: #fff; }
 
-  .navdrop { position: relative; }
+  .navdrop { position: relative; padding-bottom: 24px; margin-bottom: -24px; }
   .navdrop-menu {
     position: absolute; top: 26px; left: 50%; transform: translateX(-50%) translateY(6px);
     background: var(--surface); border: 1px solid var(--line); border-radius: 6px;
@@ -217,7 +217,7 @@
     box-shadow: var(--shadow);
   }
   .navdrop-menu a { color: var(--ink); }
-  .navdrop:hover .navdrop-menu { opacity: 1; pointer-events: auto; transform: translateX(-50%) translateY(0); }
+  .navdrop:hover .navdrop-menu, .navdrop-menu:hover { opacity: 1; pointer-events: auto; transform: translateX(-50%) translateY(0); }
   .navdrop-menu a { display: block; padding: 10px 12px; border-radius: 4px; }
   .navdrop-menu a:hover { background: var(--surface-2); }
   .navdrop-menu a::after { display: none; }
